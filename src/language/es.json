@@ -1,0 +1,29 @@
+{
+  "es": {
+    "Save": "Guardar",
+    "Cancel": "Cancelar",
+    "Search": "Buscar",
+    "Create": "Crear",
+    "Home": "Inicio",
+    "Orders": "Pedidos",
+    "Settings": "Ajustes",
+    "Profile": "Perfil",
+    "Logout": "Cerrar sesión",
+    "Next": "Siguiente",
+    "Error": "Error",
+    "Theme": "Tema",
+    "Language": "Idioma",
+    "English": "Ingles",
+    "Spanish": "Español",
+    "Pants": "Pantalón",
+    "Vest": "Chaleco",
+    "Coat": "Saco",
+    "S": "S",
+    "M": "M",
+    "L": "L",
+    "XL": "XL",
+    "is required": "ess requerido",
+    "at least %{value} cm": "al menos %{value} cm",
+    "max %{value} cm": "maximo %{value} cm"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "en": {
+    "Error on retrieve orders": "Error on retrieve orders",
+    "No orders found": "No orders found",
+    "Status": "Status",
+    "Created": "Created",
+    "Pending": "Pending",
+    "Processed": "Processed",
+    "Shipped": "Shipped",
+    "Delivered": "Delivered",
+    "Canceled": "Canceled",
+    "Color": "Color",
+    "Fabric": "Fabric",
+    "Updated": "Updated",
+    "Cancel Order": "Cancel Order",
+    "Reactivate Order": "Reactivate Order",
+    "Delete Order": "Delete Order",
+    "Black": "Black",
+    "Blue": "Blue",
+    "Gray": "Gray",
+    "Cotton": "Cotton",
+    "Polyester": "Polyester",
+    "Linen": "Linen"
+  }
+}
